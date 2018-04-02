@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DerbyModule" />
+        <module name="SQLiteModule" />
+        <module name="TDOP-derby_module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DerbyModule" target="1.5" />
+      <module name="Sas" target="1.5" />
+      <module name="SQLitemodule" target="1.5" />
+      <module name="TDOP-derby_module" target="1.6" />
+      <module name="TDOP-hibernate_module" target="1.5" />
+      <module name="TDOP-spring_module" target="1.5" />
+      <module name="TDOP-sqlite_module" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
