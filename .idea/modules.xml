@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DerbyModule/DerbyModule.iml" filepath="$PROJECT_DIR$/DerbyModule/DerbyModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/derby/TDOP-derby_module.iml" filepath="$PROJECT_DIR$/derby/TDOP-derby_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLiteModule/SQLiteModule.iml" filepath="$PROJECT_DIR$/SQLiteModule/SQLiteModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDOP-main.iml" filepath="$PROJECT_DIR$/TDOP-main.iml" />
     </modules>
   </component>
 </project>

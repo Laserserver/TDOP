@@ -15,8 +15,10 @@
       <module name="DerbyModule" target="1.5" />
       <module name="Sas" target="1.5" />
       <module name="SQLitemodule" target="1.5" />
+      <module name="SQLiteModule" target="1.8" />
       <module name="TDOP-derby_module" target="1.6" />
       <module name="TDOP-hibernate_module" target="1.5" />
+      <module name="TDOP-main" target="1.8" />
       <module name="TDOP-spring_module" target="1.5" />
       <module name="TDOP-sqlite_module" target="1.5" />
     </bytecodeTargetLevel>
